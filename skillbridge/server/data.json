@@ -1,0 +1,751 @@
+{
+  "skills": [
+    {
+      "id": "react",
+      "name": "React",
+      "category": "Frontend",
+      "description": "Component-based declarative UI library for web development.",
+      "resources": [
+        {
+          "title": "The Complete React 18 Guide",
+          "provider": "Udemy",
+          "type": "Course",
+          "url": "https://www.udemy.com",
+          "duration": "48h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Official React Documentation & Tutorials",
+          "provider": "Official",
+          "type": "Documentation",
+          "url": "https://react.dev",
+          "duration": "Self-paced",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript (ES6+)",
+      "category": "Frontend",
+      "description": "Modern JavaScript concepts including async/await, closures, prototypes, and modules.",
+      "resources": [
+        {
+          "title": "JavaScript: The Advanced Concepts",
+          "provider": "ZeroToMastery",
+          "type": "Course",
+          "url": "https://zerotomastery.io",
+          "duration": "25h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "MDN Web Docs: JavaScript Guide",
+          "provider": "Mozilla",
+          "type": "Documentation",
+          "url": "https://developer.mozilla.org",
+          "duration": "Self-paced",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Frontend",
+      "description": "Strongly typed superset of JavaScript for scalable enterprise applications.",
+      "resources": [
+        {
+          "title": "Understanding TypeScript",
+          "provider": "Udemy",
+          "type": "Course",
+          "url": "https://www.udemy.com",
+          "duration": "15h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "TypeScript Handbook",
+          "provider": "Official",
+          "type": "Documentation",
+          "url": "https://www.typescriptlang.org/docs/",
+          "duration": "Self-paced",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "tailwind",
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "description": "Utility-first CSS framework for rapid modern UI development.",
+      "resources": [
+        {
+          "title": "Tailwind CSS from Scratch",
+          "provider": "YouTube",
+          "type": "Tutorial",
+          "url": "https://youtube.com",
+          "duration": "4h",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Official Tailwind Documentation",
+          "provider": "Official",
+          "type": "Documentation",
+          "url": "https://tailwindcss.com/docs",
+          "duration": "Self-paced",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "Frontend",
+      "description": "Production React framework with SSR, SSG, Server Actions, and App Router.",
+      "resources": [
+        {
+          "title": "Next.js 14 Complete Course",
+          "provider": "freeCodeCamp",
+          "type": "Course",
+          "url": "https://freecodecamp.org",
+          "duration": "12h",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Learn Next.js Interactive Dashboard",
+          "provider": "Official",
+          "type": "Documentation",
+          "url": "https://nextjs.org/learn",
+          "duration": "8h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Backend",
+      "description": "JavaScript runtime built on Chrome's V8 engine for high-concurrency network apps.",
+      "resources": [
+        {
+          "title": "Node.js Developer Course",
+          "provider": "Udemy",
+          "type": "Course",
+          "url": "https://www.udemy.com",
+          "duration": "35h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Node.js Design Patterns",
+          "provider": "Packt",
+          "type": "Book/Course",
+          "url": "https://nodejs.org",
+          "duration": "20h",
+          "difficulty": "Advanced"
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Backend",
+      "description": "High-level programming language widely used in web backend, AI, and automation.",
+      "resources": [
+        {
+          "title": "Python for Everybody Specialization",
+          "provider": "Coursera",
+          "type": "Course",
+          "url": "https://coursera.org",
+          "duration": "30h",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Automate the Boring Stuff with Python",
+          "provider": "Al Sweigart",
+          "type": "Tutorial",
+          "url": "https://automatetheboringstuff.com",
+          "duration": "15h",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "fastapi",
+      "name": "FastAPI",
+      "category": "Backend",
+      "description": "Modern, fast web framework for building APIs with Python based on type hints.",
+      "resources": [
+        {
+          "title": "FastAPI Complete Tutorial",
+          "provider": "TestDriven.io",
+          "type": "Course",
+          "url": "https://testdriven.io",
+          "duration": "10h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "FastAPI Interactive Docs Tutorial",
+          "provider": "Official",
+          "type": "Documentation",
+          "url": "https://fastapi.tiangolo.com",
+          "duration": "Self-paced",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "express",
+      "name": "Express.js",
+      "category": "Backend",
+      "description": "Fast, unopinionated, minimalist web framework for Node.js.",
+      "resources": [
+        {
+          "title": "Building RESTful APIs with Express",
+          "provider": "Coursera",
+          "type": "Course",
+          "url": "https://coursera.org",
+          "duration": "12h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "description": "Powerful open source object-relational database system with advanced indexing.",
+      "resources": [
+        {
+          "title": "PostgreSQL Bootcamp: Go from Zero to Hero",
+          "provider": "Udemy",
+          "type": "Course",
+          "url": "https://udemy.com",
+          "duration": "16h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "PostgreSQL Official Documentation",
+          "provider": "PostgreSQL",
+          "type": "Documentation",
+          "url": "https://www.postgresql.org/docs/",
+          "duration": "Self-paced",
+          "difficulty": "Advanced"
+        }
+      ]
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "category": "Database",
+      "description": "Leading NoSQL document database designed for modern applications.",
+      "resources": [
+        {
+          "title": "MongoDB University - Developer Path",
+          "provider": "MongoDB",
+          "type": "Certification",
+          "url": "https://university.mongodb.com",
+          "duration": "20h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "Cloud & DevOps",
+      "description": "Containerization platform to package applications and dependencies together.",
+      "resources": [
+        {
+          "title": "Docker Mastery with Kubernetes",
+          "provider": "Udemy",
+          "type": "Course",
+          "url": "https://udemy.com",
+          "duration": "21h",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Docker 101 Tutorial",
+          "provider": "Docker",
+          "type": "Tutorial",
+          "url": "https://docs.docker.com/get-started/",
+          "duration": "6h",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes (K8s)",
+      "category": "Cloud & DevOps",
+      "description": "Automated container deployment, scaling, and operational management.",
+      "resources": [
+        {
+          "title": "Certified Kubernetes Administrator (CKA)",
+          "provider": "KodeKloud",
+          "type": "Certification",
+          "url": "https://kodekloud.com",
+          "duration": "35h",
+          "difficulty": "Advanced"
+        }
+      ]
+    },
+    {
+      "id": "aws",
+      "name": "AWS (Amazon Web Services)",
+      "category": "Cloud & DevOps",
+      "description": "Cloud computing platform covering EC2, S3, Lambda, ECS, RDS, and IAM.",
+      "resources": [
+        {
+          "title": "AWS Certified Solutions Architect Associate",
+          "provider": "A Cloud Guru",
+          "type": "Certification",
+          "url": "https://acloudguru.com",
+          "duration": "40h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "git",
+      "name": "Git & GitHub",
+      "category": "Tools & Workflow",
+      "description": "Distributed version control system, branching strategies, and CI/CD pipelines.",
+      "resources": [
+        {
+          "title": "Git & GitHub Crash Course",
+          "provider": "freeCodeCamp",
+          "type": "Tutorial",
+          "url": "https://freecodecamp.org",
+          "duration": "3h",
+          "difficulty": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "machinelearning",
+      "name": "Machine Learning",
+      "category": "AI & Data",
+      "description": "Supervised & unsupervised learning, model training, evaluation, scikit-learn.",
+      "resources": [
+        {
+          "title": "Machine Learning Specialization by Andrew Ng",
+          "provider": "DeepLearning.AI / Coursera",
+          "type": "Course",
+          "url": "https://coursera.org",
+          "duration": "60h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "Backend",
+      "description": "Query language for APIs and runtime for fulfilling queries with existing data.",
+      "resources": [
+        {
+          "title": "Full Stack GraphQL Tutorial",
+          "provider": "HowToGraphQL",
+          "type": "Tutorial",
+          "url": "https://howtographql.com",
+          "duration": "8h",
+          "difficulty": "Intermediate"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "email": "admin@skillbridge.io",
+      "password": "admin",
+      "role": "admin",
+      "name": "Sarah Jenkins",
+      "title": "Head of Talent & Recruitment",
+      "company": "SkillBridge Global",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "bio": "10+ years leading technical recruiting and talent acquisition. Passionate about skills-first hiring and career coaching."
+    },
+    {
+      "id": "usr-cand-1",
+      "email": "alex@example.com",
+      "password": "user",
+      "role": "candidate",
+      "name": "Alex Morgan",
+      "title": "Frontend Developer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "location": "San Francisco, CA (Remote)",
+      "phone": "+1 (555) 234-5678",
+      "summary": "Passionate Frontend Developer with 3+ years building responsive SPAs with React, TypeScript, and Tailwind CSS. Eager to expand into full-stack and cloud architectures.",
+      "education": "B.S. in Computer Science - University of California, Davis (2021)",
+      "experienceYears": 3,
+      "skills": [
+        {
+          "skillId": "react",
+          "name": "React",
+          "proficiency": "Advanced",
+          "years": 3
+        },
+        {
+          "skillId": "javascript",
+          "name": "JavaScript (ES6+)",
+          "proficiency": "Advanced",
+          "years": 4
+        },
+        {
+          "skillId": "tailwind",
+          "name": "Tailwind CSS",
+          "proficiency": "Advanced",
+          "years": 2
+        },
+        {
+          "skillId": "git",
+          "name": "Git & GitHub",
+          "proficiency": "Intermediate",
+          "years": 3
+        },
+        {
+          "skillId": "nodejs",
+          "name": "Node.js",
+          "proficiency": "Beginner",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": "usr-cand-2",
+      "email": "priya@example.com",
+      "password": "user",
+      "role": "candidate",
+      "name": "Priya Sharma",
+      "title": "Full Stack Software Engineer",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+      "location": "Austin, TX (Hybrid)",
+      "phone": "+1 (555) 876-5432",
+      "summary": "Full stack developer comfortable across Python backend, Postgres databases, and React frontends. Exploring Docker and Kubernetes.",
+      "education": "M.S. in Software Engineering - UT Austin (2022)",
+      "experienceYears": 4,
+      "skills": [
+        {
+          "skillId": "python",
+          "name": "Python",
+          "proficiency": "Advanced",
+          "years": 4
+        },
+        {
+          "skillId": "fastapi",
+          "name": "FastAPI",
+          "proficiency": "Intermediate",
+          "years": 2
+        },
+        {
+          "skillId": "postgresql",
+          "name": "PostgreSQL",
+          "proficiency": "Advanced",
+          "years": 3
+        },
+        {
+          "skillId": "react",
+          "name": "React",
+          "proficiency": "Intermediate",
+          "years": 2
+        },
+        {
+          "skillId": "docker",
+          "name": "Docker",
+          "proficiency": "Intermediate",
+          "years": 2
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-101",
+      "title": "Senior React / Frontend Engineer",
+      "company": "CloudScale Systems",
+      "department": "Engineering",
+      "location": "Remote (US/Canada)",
+      "workType": "Remote",
+      "salary": "$120,000 - $145,000",
+      "experienceLevel": "Mid-Senior (3-5 yrs)",
+      "postedDate": "2026-09-01",
+      "status": "Active",
+      "description": "CloudScale is seeking a talented Frontend Engineer to craft hyper-performant interfaces for our real-time cloud observability suite. You will work closely with design and backend teams to deliver intuitive dashboards handling millions of data points.",
+      "responsibilities": [
+        "Architect and build reusable React components with TypeScript and Tailwind CSS.",
+        "Integrate client-side telemetry charts with WebSockets and GraphQL/REST endpoints.",
+        "Optimize Core Web Vitals, accessibility (WCAG AA), and bundle performance.",
+        "Participate in sprint planning, code reviews, and mentor junior developers."
+      ],
+      "requiredSkills": [
+        {
+          "skillId": "react",
+          "name": "React",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "typescript",
+          "name": "TypeScript",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "tailwind",
+          "name": "Tailwind CSS",
+          "minProficiency": "Intermediate",
+          "mandatory": false
+        },
+        {
+          "skillId": "nextjs",
+          "name": "Next.js",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "git",
+          "name": "Git & GitHub",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        }
+      ]
+    },
+    {
+      "id": "job-102",
+      "title": "Full Stack Cloud Developer",
+      "company": "Apex Fintech",
+      "department": "Product Engineering",
+      "location": "New York, NY",
+      "workType": "Hybrid",
+      "salary": "$130,000 - $160,000",
+      "experienceLevel": "Senior (4+ yrs)",
+      "postedDate": "2026-08-28",
+      "status": "Active",
+      "description": "Join Apex Fintech to build compliant, high-availability transaction processing engines and customer-facing wealth management portals.",
+      "responsibilities": [
+        "Design scalable microservices using Node.js and PostgreSQL.",
+        "Build secure web interfaces with React and modern CSS frameworks.",
+        "Deploy and monitor containerized services using Docker and AWS ECS.",
+        "Implement automated CI/CD unit & integration testing."
+      ],
+      "requiredSkills": [
+        {
+          "skillId": "react",
+          "name": "React",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "nodejs",
+          "name": "Node.js",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "postgresql",
+          "name": "PostgreSQL",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "docker",
+          "name": "Docker",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "aws",
+          "name": "AWS (Amazon Web Services)",
+          "minProficiency": "Intermediate",
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "id": "job-103",
+      "title": "Backend Python / AI Engineer",
+      "company": "NeuralCraft AI",
+      "department": "AI Research & Platform",
+      "location": "San Francisco, CA",
+      "workType": "Onsite",
+      "salary": "$140,000 - $175,000",
+      "experienceLevel": "Mid-Senior (3+ yrs)",
+      "postedDate": "2026-09-02",
+      "status": "Active",
+      "description": "NeuralCraft is creating next-generation agentic workflows. We need a backend engineer proficient in Python, FastAPI, and asynchronous streaming architectures.",
+      "responsibilities": [
+        "Develop high-throughput REST and streaming APIs using FastAPI and Python.",
+        "Implement vector database indexing, embedding pipelines, and caching layers.",
+        "Containerize services and orchestrate deployments with Kubernetes.",
+        "Ensure data security and low latency model inference response times."
+      ],
+      "requiredSkills": [
+        {
+          "skillId": "python",
+          "name": "Python",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "fastapi",
+          "name": "FastAPI",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "docker",
+          "name": "Docker",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "kubernetes",
+          "name": "Kubernetes (K8s)",
+          "minProficiency": "Beginner",
+          "mandatory": false
+        },
+        {
+          "skillId": "machinelearning",
+          "name": "Machine Learning",
+          "minProficiency": "Beginner",
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "id": "job-104",
+      "title": "DevOps & Cloud Infrastructure Engineer",
+      "company": "HyperNet Infrastructure",
+      "department": "Operations & SRE",
+      "location": "Remote (Global)",
+      "workType": "Remote",
+      "salary": "$135,000 - $165,000",
+      "experienceLevel": "Senior (4+ yrs)",
+      "postedDate": "2026-08-25",
+      "status": "Active",
+      "description": "Manage global Kubernetes clusters, Terraform automation, and AWS multi-region infrastructure with zero-downtime tolerance.",
+      "responsibilities": [
+        "Maintain production AWS infrastructure via Terraform and Helm charts.",
+        "Scale Kubernetes clusters handling multi-terabyte traffic daily.",
+        "Standardize GitOps workflows and GitHub Actions deployment pipelines."
+      ],
+      "requiredSkills": [
+        {
+          "skillId": "aws",
+          "name": "AWS (Amazon Web Services)",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "docker",
+          "name": "Docker",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "kubernetes",
+          "name": "Kubernetes (K8s)",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        },
+        {
+          "skillId": "git",
+          "name": "Git & GitHub",
+          "minProficiency": "Advanced",
+          "mandatory": true
+        }
+      ]
+    },
+    {
+      "id": "job-105",
+      "title": "Junior Frontend Developer",
+      "company": "BrightPixel Studios",
+      "department": "Interactive Web",
+      "location": "Seattle, WA",
+      "workType": "Hybrid",
+      "salary": "$75,000 - $90,000",
+      "experienceLevel": "Entry-Mid (1-2 yrs)",
+      "postedDate": "2026-09-03",
+      "status": "Active",
+      "description": "Great entry role for enthusiastic web developers who love crafting clean, animated interfaces with React and Tailwind.",
+      "responsibilities": [
+        "Translate Figma designs into pixel-perfect React pages.",
+        "Collaborate with the marketing team on landing page conversions.",
+        "Fix UI bugs and ensure mobile responsiveness."
+      ],
+      "requiredSkills": [
+        {
+          "skillId": "react",
+          "name": "React",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "javascript",
+          "name": "JavaScript (ES6+)",
+          "minProficiency": "Intermediate",
+          "mandatory": true
+        },
+        {
+          "skillId": "tailwind",
+          "name": "Tailwind CSS",
+          "minProficiency": "Beginner",
+          "mandatory": true
+        },
+        {
+          "skillId": "git",
+          "name": "Git & GitHub",
+          "minProficiency": "Beginner",
+          "mandatory": true
+        }
+      ]
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-301",
+      "jobId": "job-105",
+      "userId": "usr-cand-1",
+      "applicantName": "Alex Morgan",
+      "applicantEmail": "alex@example.com",
+      "applicantTitle": "Frontend Developer",
+      "jobTitle": "Junior Frontend Developer",
+      "company": "BrightPixel Studios",
+      "status": "Interview Scheduled",
+      "appliedDate": "2026-09-03",
+      "coverNote": "I have 3 years of hands-on experience building reactive websites with React and Tailwind CSS. Looking forward to discussing the role!",
+      "matchScore": 100,
+      "notes": "Outstanding match on all required frontend skills. Initial phone screen scheduled."
+    },
+    {
+      "id": "app-302",
+      "jobId": "job-101",
+      "userId": "usr-cand-1",
+      "applicantName": "Alex Morgan",
+      "applicantEmail": "alex@example.com",
+      "applicantTitle": "Frontend Developer",
+      "jobTitle": "Senior React / Frontend Engineer",
+      "company": "CloudScale Systems",
+      "status": "Under Review",
+      "appliedDate": "2026-09-04",
+      "coverNote": "Excited about CloudScale's observability platform. Currently expanding my TypeScript and Next.js skill set.",
+      "matchScore": 60,
+      "notes": "Strong in React and Tailwind. Needs gap progression in Next.js and TypeScript."
+    },
+    {
+      "id": "app-303",
+      "jobId": "job-103",
+      "userId": "usr-cand-2",
+      "applicantName": "Priya Sharma",
+      "applicantEmail": "priya@example.com",
+      "applicantTitle": "Full Stack Software Engineer",
+      "jobTitle": "Backend Python / AI Engineer",
+      "company": "NeuralCraft AI",
+      "status": "Reviewing",
+      "appliedDate": "2026-09-02",
+      "coverNote": "Experienced in Python and FastAPI backend architectures. Eager to contribute to AI inference workflows.",
+      "matchScore": 80,
+      "notes": "Has Python, FastAPI, Docker. Could benefit from hands-on Kubernetes."
+    }
+  ]
+}
